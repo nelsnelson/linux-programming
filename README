@@ -1,2 +1,6 @@
+http://man7.org/tlpi/
+
 The source code file is copyright 2010, Michael Kerrisk, and is licensed under the GNU Lesser General Public License, version 3.
+
+curl -sL0 http://man7.org/tlpi/code/download/tlpi-140111-dist.tar.gz | tar -zx
 
