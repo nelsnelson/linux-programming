@@ -17,6 +17,8 @@
    NOTE: Only Linux and the BSDs support the RLIMIT_NPROC resource limit.
 */
 #include <sys/resource.h>
+
+#include "config.h"
 #include "print_rlimit.h"               /* Declaration of printRlimit() */
 #include "tlpi_hdr.h"
 
